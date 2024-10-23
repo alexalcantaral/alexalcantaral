@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil GitHub! Sou um entusiasta da tecnologia e programador ap
 
 ## Sobre mim
 
-- 🔭 Atualmente estou trabalhando em **Projetos de Desenvolvimento web** e **C**.
+- 🔭 Atualmente estou focado no meu **Aprendizado em Java** e no banco de dados **PostgreSQL**.
 - 🌱 Estou aprendendo mais sobre **Desenvolvimento Full Stack**.
 - 💡 Gosto de explorar novas tecnologias e compartilhar o que aprendo.
 - 📫 Você pode me contatar pelo meu e-mail: alexal280@hotmail.com.
